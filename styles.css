@@ -1,0 +1,207 @@
+.navbaar{
+    height: 40px;
+    width: 100%;
+    background-color: rgb(0, 102, 167);
+    display: flex;
+    justify-content: end;
+}
+
+.user{
+    width: 85px;
+    height: 20px;
+    /* justify-content: center; */
+    display: flex;
+    padding: 10px 40px;
+    
+
+}
+.user-logo{
+    height: 20px;
+    width: 20px;
+    border-radius: 100%;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.Account-details{
+    width: 53px;
+    height: 18px;
+    margin-left: 5px;
+}
+
+.my-acc{
+    font-size: 8px;
+    color: white;
+}
+.loginsignup{
+    width: 53px;
+    height: 8px;
+    font-size: 8px;
+    color: #55ccf6;
+}
+.bdy-ctn{
+    display: flex;
+    
+    height: 600px;
+}
+
+ .body-cnt-search{
+    width: 700px;
+    height: 380px;
+ }
+
+ .search-cnt{
+    width: 539px;
+    height: 192px;
+    margin: 56px 0px 0px 56px;
+ }
+
+ .dominoz-logo{
+    width: 250px;
+    height: 38px;
+    margin: 0px 0px 11px;
+    background-image: url("dominosLogoBlue.png");
+    background-size: cover;
+ }
+
+ .search-cnt-txt{
+    width: 44px;
+    height: 431px;
+    color: #6a676e;
+    font-size: 14.56px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+ }
+ .radio-btn{
+    margin: 33px 0px 0px;
+    color: #0066a7;
+    font-size: 11.2px;
+ }
+
+ .search-cnt-src{
+    margin: 16.8px 0px 0px;
+    height: 38px;
+    width: 433px;
+    display: flex;
+    border: 1px solid black;
+    border-radius: 3px;
+ }
+
+ .loc-logo{
+    display: flex;
+    width: 20px;
+    height: 35.5px;
+    justify-content: center;
+    align-items: center;
+  
+    border-right: none;
+
+ }
+
+ .searchbaar{
+    width: 500px;
+    height: 38px;
+ }
+
+ .search-input{
+    width: 100%;
+    height: 38px;
+    color: #0066a7;
+    font-size: 1rem;
+    padding: 1px 2px 1px 2px;
+    border: white;
+    
+ }
+
+ .delivery-boy{
+    height: 110px;
+    width: 500px;
+    background-image: url("home_search.png");
+    background-size: cover;
+ }
+
+ .body-ctn-img{
+    background-image: url("dominos_adaptation_desktop.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+ }
+
+ .bdy-img{
+    width: 900px;
+    height: 385px;
+    
+ }
+
+ .footer-content{
+    width: 100%;
+    height: 150px;
+    background-color: rgb(34, 46, 58);
+    
+ }
+
+ .foot-wrap{
+    width: 1200px;
+    height: 121px;
+    padding: 33.6px 33.6px 0px 33.6px;
+    display: flex;
+ }
+
+ .foot-img{
+    background-image: url("dominosLogoBlue.png");
+    background-size: cover;
+    height: 30px;
+    width: 200px;
+ }
+
+ .ftr-p{
+    width: 598px;
+    height: 22px;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 11px;
+    color: #839ab1;
+ }
+
+ .download{
+    height: 76px;
+    width: 276px;
+    margin-left: 106px;
+ }
+
+ .dw-app{
+    width: 276px;
+    height: 15px;
+    font-size: 14px;
+    color: #839ab1;
+ }
+
+ .dw-icn{
+    width: 276px;
+    height: 28px;
+    margin: 14.336px;
+ }
+
+ .playstore{
+    width: 96px;
+    height: 28px;
+    background-image: url("play-store.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+
+ }
+
+
+
+
+ .copyright{
+    height: 45px;
+    background-color: #1a2735;
+    font-size: 11px;
+    color:#5c6f83 ;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    border-top: 1px dotted white;
+ }
